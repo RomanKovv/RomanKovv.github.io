@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Roman! Please hire me asap!
 
 ### More Information
 
